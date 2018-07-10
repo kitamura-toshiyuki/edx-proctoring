@@ -1186,7 +1186,7 @@ PRACTICE_STATUS_SUMMARY_MAP = {
 
 TIMED_EXAM_STATUS_SUMMARY_MAP = {
     '_default': {
-        'short_description': _('Timed Exam'),
+        'short_description': _('Timed Exam Hoge'),
         'suggested_icon': 'fa-clock-o',
         'in_completed_state': False
     }
